@@ -12,12 +12,18 @@ This project demonstrates my ability to design logical flowcharts and implement 
 <h2>Environments Used</h2>
 
 - <b>Windows 11</b>
+- <b>Flowgorithm</b>
+- <b>Visual Studio Code</b>
 
 <h2>Project Walk-Through:</h2>
 
 <p align="center">
-The Flowchart: <br/>
-<img src="https://i.imgur.com/8Faz2Id.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The Flowchart: Declare variables and input<br/>
+<img src="https://i.imgur.com/tN0YRA3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+The Flowchart: Processing and loops<br/>
+<img src="https://i.imgur.com/iNQ66zw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Program: <br/>
