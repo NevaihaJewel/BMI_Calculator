@@ -19,31 +19,31 @@ This project demonstrates my ability to design logical flowcharts and implement 
 
 <p align="center">
 The Flowchart: Declare variables and input<br/>
-<img src="https://i.imgur.com/tN0YRA3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wSdBkL3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Flowchart: Processing and loops<br/>
-<img src="https://i.imgur.com/iNQ66zw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c6JOYjE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Program: <br/>
-<img src="https://i.imgur.com/sYZAX2a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eRpz5Fp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Results: Underweight<br/>
-<img src="https://i.imgur.com/aOeWJCp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FiUbCLL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Results: Average weight<br/>
-<img src="https://i.imgur.com/FzSsiRr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8QgjAws.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Results: Overweight<br/>
-<img src="https://i.imgur.com/q666nxm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Bl9mHWi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Results: Obese weight<br/>
-<img src="https://i.imgur.com/JFqLVOW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d1LpQoQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 </p>
